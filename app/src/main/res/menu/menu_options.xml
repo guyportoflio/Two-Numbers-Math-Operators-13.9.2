@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+       <item
+        android:title="Add"
+        android:onClick="menuAdd"
+        />
+
+    <item
+        android:title="Subtract"
+        android:onClick="menuSubtract"
+        />
+
+    <item
+        android:title="Multiply"
+        android:onClick="menuMultiply"
+        />
+
+    <item
+        android:title="Division"
+        android:onClick="menuDivision"
+        />
+
+    <item
+        android:title="Power"
+        android:onClick="menuPower"
+        />
+</menu>
